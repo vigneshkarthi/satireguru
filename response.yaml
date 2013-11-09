@@ -1,0 +1,38 @@
+name:
+    - keyword: PM
+      response:
+        - "NaMo"
+        - "RahuLOL Gandhi"
+        - "Ofcourse it is Lupus!"
+        - "Some random puppet"
+        - "not me"
+        - "AMMA!!!"
+        - "pappu"
+        - "MS Dhoni"
+    - keyword: Who || PM
+      response:
+        - "You"
+        - "king maker"
+        - "doggy"
+        - "boooyah"
+    - keyword: Who || CM
+      response:
+      - "Common man ??? RK Lakshman "
+      - "Dunno about chief minister but thief minister is lalu yadav"
+      - " Channa masala "
+    - keyword: Who || next || TN || Tamil Nadu || CM
+      response:
+      - "Captain Vijaykanth wonly"
+      - "Amma all the way "
+      - "Me"
+      - "MK stalin"
+      - "Vinay Venkatraman "
+      - " N Srinivasan"
+      - "Ilaya thalapathi Vijay "
+    - keyword: election issue
+      response:
+      - "sickularism"
+      - "price rise"
+      - "corruption "
+      - "development"
+
